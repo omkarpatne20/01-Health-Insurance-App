@@ -3,6 +3,7 @@ class
 {
 	int = a;
 
+	boolian = true 
 {
 }
 
