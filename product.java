@@ -5,6 +5,8 @@ class
 
 	boolean value = true
 
+	boolian = true 
+
 {
 }
 

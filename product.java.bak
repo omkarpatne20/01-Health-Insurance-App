@@ -3,6 +3,12 @@ class
 {
 	int = a;
 
+<<<<<<< HEAD
+	boolean value = true
+
+=======
+	boolian = true 
+>>>>>>> 198babb5e5ecb0d0308a8414ed2ae30ae3e242cd
 {
 }
 
