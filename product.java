@@ -3,6 +3,8 @@ class
 {
 	int = a;
 
+	boolean value = true
+
 {
 }
 
